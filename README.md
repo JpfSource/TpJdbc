@@ -1,7 +1,9 @@
 # TpJdbc
  Exercices JDBC by Jean-Philippe FRANCISCO@Diginamic
  
- Code OK (dev + tests)
- JavaDoc OK (non généré car trop volumineux)
+ Fait :
+ - Code (dev + tests)
+ - JavaDoc (non généré car trop volumineux)
  
- Reste à faire : JUnit
+ Reste à faire :
+ - JUnit
